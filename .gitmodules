@@ -1,0 +1,3 @@
+[submodule "docker_env_gui"]
+	path = docker_env_gui
+	url = https://github.com/HTLife/docker_env_gui
