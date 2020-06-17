@@ -2,6 +2,12 @@
 
 
 ## How to use
+
+### Prerequisites
+
+1. docker: https://docs.docker.com/engine/install/ubuntu/
+2. nvidia-docker (if you have nvidia GPU): https://github.com/NVIDIA/nvidia-docker
+
 ### Env setup
 ```bash
 # clone repository with submodules
