@@ -1,0 +1,1 @@
+docker build -t tseanliu/docker_env_gui:ubuntu18_melodic_interactive_slam .
